@@ -1,0 +1,26 @@
+------------------------------------------------
+
+void main() {
+
+  funcion sumar(a, b, c) {
+    resultado = a + b + c
+    return resultado
+  }
+    
+    sumar(2, 4, 5);
+
+
+clase coche {
+   int puertas = 3
+}
+
+  funcion sumarPuerta(coche) {
+     coche + 1
+  }
+
+coche miCoche 
+
+
+imprimir miCoche.puertas
+
+}
